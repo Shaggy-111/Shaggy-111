@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shagun Bhatia 👋
+### Full Stack App Developer | Freelance
 
-<!--
-**Shaggy-111/Shaggy-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build complete **Mobile + Web + Backend systems** for startups and businesses.
 
-Here are some ideas to get you started:
+## 🚀 What I Build
+- 📱 Android & iOS Mobile Applications
+- 🌐 Admin Panels & Web Portals
+- 🔗 Backend APIs & Database Systems
+- ⚙️ Full Stack Business Solutions
+- 🛠 App Maintenance & Upgrades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+
+### AquaTrack – Water Delivery System
+Full stack system with:
+- Mobile App (Customer + Delivery)
+- Admin Portal
+- Order & Delivery Management
+
+### Solar Solution Mobile App
+- Solar survey & system planning app
+- Structured workflow for field engineers
+
+## 💼 Freelance Services
+- Complete App Development
+- Web Admin Dashboards
+- API & Database Integration
+- Custom Business Systems
+- App Upgrades & Maintenance
+
+📩 Open for Freelance Work
